@@ -129,6 +129,7 @@ main {
 }
 
 .minha-foto {
+    width: 21%;
     position: absolute;
     top: 0;
     right: 0;
